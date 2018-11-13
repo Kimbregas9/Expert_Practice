@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="merge_sort.cc">
+    <ClCompile Include="segment_tree.cc">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
